@@ -34,8 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbuksbaum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!--img align="left" alt="dbuksbaum's Github Stats" src=https://github-readme-stats.vercel.app/api?username=dbuksbaum&show_icons=true&hide_border=true" /-->
-
 </details>
 
 [website]: https://buksbaum.us
