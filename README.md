@@ -2,7 +2,7 @@
 
 ## I parent, husband, work, teach, learn, and code.
 
-- I'm currently working as an Enterprise Architect
+- I'm currently a CIO
 - I'm currently teaching at Southern New Hampshire University
 - I'm always learning something, with a recent dive into Udemy courses
 - I have a PhD in Computer Science from Nova Southeastern University
