@@ -2,16 +2,15 @@
 
 ## I parent, husband, work, teach, learn, and code.
 
-- I'm currently a CIO
-- I'm currently teaching at Southern New Hampshire University
-- I'm always learning something, with a recent dive into Udemy courses
-- I have a PhD in Computer Science from Nova Southeastern University
+- I'm currently a Chief Architect and have been everything from network cable runner to a CIO.
+- I'm currently teaching at Southern New Hampshire University.
+- I'm always learning something, with a recent dive into Udemy courses.
+- I have a PhD in Computer Science from Nova Southeastern University.
 - I love history and have come to really enjoy [Dan Carlin's Hardcore History](https://www.dancarlin.com/hardcore-history-series/) and [The Great Courses audio books](https://www.thegreatcourses.com/)
 
 ### Connect with me:
 
 [<img align="left" alt="buksbaum.us" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dbuksbaum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dbuksbaum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -49,5 +48,4 @@
 </details>
 
 [website]: https://buksbaum.us
-[twitter]: https://twitter.com/dbuksbaum
 [linkedin]: https://linkedin.com/in/buksbaum
