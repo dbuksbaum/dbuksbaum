@@ -44,10 +44,7 @@ I’m a software architect, educator, and lifelong learner with a passion for bu
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/zed/000000" alt="Zed" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/terminal/000000" alt="Terminal" width="32" height="32" />
 </div>
 
 <br />
