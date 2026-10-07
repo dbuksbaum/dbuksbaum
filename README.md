@@ -13,8 +13,8 @@ I’m a software architect, educator, and lifelong learner with a passion for bu
 
 ## Connect
 
-[<img align="left" alt="buksbaum.us" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dbuksbaum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="buksbaum.us" width="22px" src="https://cdn.simpleicons.org/globe/FFFFFF" />][website]
+[<img align="left" alt="dbuksbaum | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/FFFFFF" />][linkedin]
 
 <br />
 <br />
