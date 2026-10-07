@@ -17,26 +17,28 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C-Sharp" width="26px" src="https://cdn.simpleicons.org/csharp/512BD4" />
-<img align="left" alt="Python" width="26px" src="https://cdn.simpleicons.org/python/3776AB" />
-<img align="left" alt="Java" width="26px" src="https://cdn.simpleicons.org/java/007396" />
-<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go/00ADD8" />
-<img align="left" alt="Rust" width="26px" src="https://cdn.simpleicons.org/rust/000000" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-<img align="left" alt="C" width="26px" src="https://cdn.simpleicons.org/c/00599C" />
-<img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus/00599C" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5/E34F26" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css3/1572B6" />
-<img align="left" alt="React" width="26px" src="https://cdn.simpleicons.org/react/61DAFB" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.simpleicons.org/graphql/E10098" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.simpleicons.org/mysql/4479A1" />
-<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/F05032" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/181717" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
-<img align="left" alt="Zed" width="26px" src="https://cdn.simpleicons.org/zed/000000" />
-<img align="left" alt="n8n" width="26px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.simpleicons.org/terminal/000000" />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" alt="C#" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/zed/000000" alt="Zed" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="26" height="26" style="margin: 0 6px 8px 0;" />
+  <img src="https://cdn.simpleicons.org/terminal/000000" alt="Terminal" width="26" height="26" style="margin: 0 6px 8px 0;" />
+</div>
 
 <br />
 <br />
