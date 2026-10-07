@@ -26,7 +26,7 @@ I’m a software architect, educator, and lifelong learner with a passion for bu
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/rust/FFFFFF" alt="Rust" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="32" height="32" />
@@ -43,7 +43,7 @@ I’m a software architect, educator, and lifelong learner with a passion for bu
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="32" height="32" />
 </div>
 
